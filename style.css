@@ -18,3 +18,20 @@ thumbnail {
     padding: 0;
     margin: 0;
 }
+
+.jumbotron img {
+    width: 100%;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.thumbnail img {
+    border-radius: 10px;
+    height: 200px;
+}
+
+a:hover {
+    text-decoration: none;
+}
