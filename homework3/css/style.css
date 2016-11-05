@@ -80,7 +80,7 @@
 }
 
 #section1 .btn1-1 {
-    background-color: #d16b45;
+    background-color: #dd9d85;
     padding: 10px 40px 10px 40px;
     margin: 10px;
     color: white;
@@ -89,14 +89,24 @@
     font-size: 18px;
 }
 
+#section1 .btn1-1:hover {
+    background-color: #c1491c;
+    text-decoration: none;
+}
+
 #section1 .btn1-2 {
-    background-color: #9a9a9a;
+    background-color: #676767;
     padding: 10px 40px 10px 40px;
     margin: 10px;
     color: white;
     font-family: "Archivo Black";
     border-radius: 5px;
     font-size: 18px;
+}
+
+#section1 .btn1-2:hover {
+    background-color: #cbc7c7;
+    text-decoration: none;
 }
 
 #section1 .btn1-1 img {
@@ -231,7 +241,7 @@
 }
 
 .row-5 {
-    font-family: Changa+One;
+    font-family: "Archivo Black";
     font-size: 48px;
     font-weight: 600;
     height: 40vh;
