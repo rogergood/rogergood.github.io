@@ -135,7 +135,7 @@
 #section2 {
     width: 100%;
     padding: 20px;
-    height: 60vh;
+    height: 90vh;
     background-color: #edecec;
     display: flex;
     align-items: center;
@@ -266,7 +266,7 @@
 
 .section6-1 {
     width: 100%;
-    background-image: url(/img/row6-1.JPG);
+    background-image: url(/img/row6-1.jpg);
     opacity: 0.2;
     height: 80vh;
     background-size: cover;
