@@ -18,6 +18,10 @@ thumbnail {
     margin: 0;
 }
 
+.container {
+    margin-top: 20px;
+}
+
 .col-md-4 {
     text-align: center;
     display: block;
