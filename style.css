@@ -23,6 +23,10 @@ thumbnail {
     display: block;
 }
 
+.col-md-6 {
+    text-align: center;
+}
+
 .thumbnail img {
     border-radius: 10px;
     height: 200px;

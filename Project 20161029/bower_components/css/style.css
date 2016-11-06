@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    height: 200px;
+    /*    background-image: url(http://upsplash.it/1000?image=1005);*/
+    background-color: cadetblue;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    width: 75%;
+}
+
+footer {
+    background-color: #7c280a;
+    color: white;
+}

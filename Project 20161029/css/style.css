@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url(http://unsplash.it/1000?random);
+    background-size: cover;
+    height: 100vh;
+    /*100的viewport*/
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+header {
+    background-image: url(http://unsplash.it/1000?random);
+    background-size: cover;
+    height: 100vh;
+    /*100的viewport*/
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 70%;
+}
+
+section {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: black;
+    color: gainsboro;
+    padding: 20px;
+}
+
+footer .container {
+    width: 80%;
+}
+
+footer a {
+    color: darkgray;
+    text-decoration: none;
+}
