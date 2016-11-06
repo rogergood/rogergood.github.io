@@ -18,22 +18,6 @@ thumbnail {
     margin: 0;
 }
 
-.container {
-    text-align: right;
-}
-
-.col-md-12 {
-    width: 100%;
-    height: 500px;
-    background-image: url(img/angry.jpg);
-    background-size: cover;
-    height: 400px;
-}
-
-.col-md-12 .thumbnail img {
-    position: absolute;
-}
-
 .col-md-4 {
     text-align: center;
     display: block;
